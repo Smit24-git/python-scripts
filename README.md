@@ -1,2 +1,5 @@
 # python-scripts
-sample fun scripting with python
+scripting with python
+
+## initiate env
+`python -m venv venv`
